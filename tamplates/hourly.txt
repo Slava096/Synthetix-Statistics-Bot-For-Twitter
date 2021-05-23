@@ -1,0 +1,6 @@
+SNX price: {snxPr}$
+Exhange volume: {ExchangeVolume}$
+Trading fees: {TotatTradingFees}$
+Total value locked ETH: {ETHLocked} ETH
+Total value locked BTC: {BTCLocked} BTC
+Amount of SNX staked: {snx_staked_percent}% of total

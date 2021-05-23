@@ -1,0 +1,12 @@
+{
+    "snxPr":"//div[text()='SNX PRICE']/following::div[3]/div[1]",
+    "TotatTradingFees":"//div[text()='TOTAL TRADING FEES']/following::div[4]",
+    "ExchangeVolume":"//div[text()='24HR EXCHANGE VOLUME']/following::div[2]",
+    "ETHLocked":"//div[text()='ETH COLLATERAL']/following::div[2]",
+    "BTCLocked":"//div[text()='BTC COLLATERAL']/following::div[2]",
+    "snx_marcet_cap":"//div[text()='SNX MARKET CAP']/following::div[4]",
+    "total_snx_staked":"//div[text()='TOTAL SNX STAKED']/following::div[4]",
+    "issuance_ratio":"//div[text()='ISSUANCE RATIO']/following::div[4]",
+    "network_cratio":"//div[text()='NETWORK C-RATIO']/following::div[4]",
+    "active_cratio":"//div[text()='ACTIVE C-RATIO']/following::div[4]"
+}
