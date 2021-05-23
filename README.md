@@ -10,6 +10,8 @@ The bot provides information about:
 * Issuance ratio, Networck c-ratio, Active c-ratio (weekly)
 * includes two finished templates 
 
+# [demo](https://twitter.com/SynthetixStati1)
+
 Scraper has the ability to manage the collected data by means of a json file,this file has the following structure:
 ```
 "ObjectName":Patch
@@ -32,6 +34,8 @@ Amount of SNX staked: {snx_staked_percent}% of total
 ```
 The default hourly and weekly templates are located: `tamplates/hourly.txt` and `tamplates/weekly.txt` this can be changed in the configuration file.
 twit exemple:
+
+![twit exemple:](screenshot_twitt.png)
 
 # Deployment
 1. Clone this repo
